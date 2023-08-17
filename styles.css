@@ -7,3 +7,12 @@ body {
     margin: 0;
     color: white;
 }
+
+.inverted {
+    color: white;
+}
+
+.inverted:hover {
+    opacity: 0.6;
+    transition: 0.3s;
+}
